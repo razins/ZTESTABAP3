@@ -6,6 +6,11 @@
     <SOBJ_NAME>LZLOCAL_TESTTOP</SOBJ_NAME>
     <SOBJ_NAME>SAPLZLOCAL_TEST</SOBJ_NAME>
    </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_TEST2</FUNCNAME>
+    </item>
+   </FUNCTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
